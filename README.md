@@ -1,5 +1,9 @@
-# One Piece Extension Pack
+# OnePiece Extension Pack
 
-## Your one stop for all your extensions
+## One Good Extension is all you need! Made by a Developer, for the Developers! 💜
 
-**Enjoy!**
+Thanks for checking out my VS Code SuperHero extension pack.
+
+If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star rating! →](https://marketplace.visualstudio.com/items?itemName=Mittranj.one-piece-extension-pack&ssr=false#review-details) 😉
+
+**Happy Coding!**
